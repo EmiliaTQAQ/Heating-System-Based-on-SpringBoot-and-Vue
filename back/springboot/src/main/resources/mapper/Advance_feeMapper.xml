@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.dao.Advance_feeDao">
+    <select id="findBySearch" resultType="com.example.entity.Advance_fee">
+        select * from advance_fee
+        <where>
+            <if test="params != null and params.name != null and params.name != ''">
+                and name like concat('%',#{params.name},'%')
+            </if>
+            <if test="params != null and params.account != null and params.account != ''">
+                and account like concat('%',#{params.account},'%')
+            </if>
+        </where>
+    </select>
+
+</mapper>
