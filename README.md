@@ -6,5 +6,4 @@ The system details the planning of the three ends: the administrator's end, the 
 
 Key Words: Spring Boot, Vue, Heating System, Intelligent Management, Energy Conservation and Emission Reduction 
  
-![Uploading image.png…]()
 
