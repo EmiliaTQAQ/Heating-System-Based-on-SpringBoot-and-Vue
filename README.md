@@ -1,2 +1,10 @@
 # Design-and-Implementation-of-a-Heating-System-Based-on-SpringBoot-and-Vue
-本课题将设计实现一套基于 Spring Boot、Vue 的供暖管理系统，搭建一个不同用户工作的智能多角色平台。Spring Boot 可以发挥后端框架的强大优势，能够很好地解决系统中的数据，把握各种复杂的业务情况，确保系统的稳定运行；而 Vue 则可以搭建出不同用户使用的前端界面，在操作上达到简单易用的效果。针对不同的使用群体对不同的用户端进行细致的设计：管理员的住房管理和用户的管理等可以让其更好地对供暖设备进行全方面的集中控制，用户的维修和缴费可满足日常的基本需求，师傅的查看区域与师傅工单功能方便了日常的工作维修等等。 经过测试后的供暖管理系统极大地提高了工作效率，减少了能源的浪费，在真正投入使用时无论是供暖公司还是小区物业都可以有效地提高自身的服务水平与工作效率。
+Design and Implementation of a Heating System Based on Spring Boot and Vue
+Abstract
+With This paper designs and develops a new heating system based on Spring Boot and Vue, builds an intelligent management platform for multiple participants working together, fully utilizes the powerful advantages of back-end Spring boot to handle all kinds of data, complete complex business logic, and make the system run smoothly. On the other hand, with the help of vue, we build a vivid and easy-to-operate front end for users to provide good user experience.
+The system details the planning of the three ends: the administrator's end, the user's end, and the maintenance master's end. From one side, the administrator's end adds some sub-functions such as user management and house management to realize the centralized control of the heating facility; from another side, it provides payment, report repair, etc., at the user end to meet the basic use needs; and it can see the responsibility area and maintenance information at any time at the master end to facilitate daily maintenance. After testing, the heating system has greatly improved the heating management level, optimized the heating process, saved energy consumption, been practical and effective when actually used, enabled large heating companies or community properties in general communities to improve their service levels and management levels, had far-reaching effects on achieving the goals of saving energy and reducing emissions, provided support for relevant authorities' related targets, and had important practical significance to the development of China's whole heating industry.
+
+Key Words: Spring Boot, Vue, Heating System, Intelligent Management, Energy Conservation and Emission Reduction 
+ 
+![Uploading image.png…]()
+
